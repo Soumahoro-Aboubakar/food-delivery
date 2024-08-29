@@ -1,0 +1,10 @@
+@media (max-width: 896px) {
+    .article-container {
+      flex-direction: column;
+   
+    }
+    .item{
+        width: 100%;
+        margin: 15px;
+    }
+  }
